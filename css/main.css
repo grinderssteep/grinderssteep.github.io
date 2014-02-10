@@ -305,6 +305,13 @@ a {
 	margin-left: 18px;
 	margin-right: 18px}
 
+
+#gallery img {
+	width: 250px;
+	float: left;
+	padding: 21px;
+}
+
 /* Box styles */
 .box{
 	-webkit-border-radius: 4px;
