@@ -238,78 +238,31 @@ a {
 .col_3_5 {width:556px}
 .col_4_5 {width:748px}
 
-.row .col_1_2 {width:470px}
-.row .col_1_3 {width:306px}
-.row .col_2_3 {width:632px}
-.row .col_1_4 {width:225px}
-.row .col_3_4 {width:715px}
-.row .col_1_5 {width:176px}
-.row .col_2_5 {width:372px}
-.row .col_3_5 {width:568px}
-.row .col_4_5 {width:764px}
 
-/* Columns with Sidebar*/
-.grid_8 .col_1_2 {width:290px}
-.grid_8 .col_1_3 {width:186px}
-.grid_8 .col_2_3 {width:394px}
-.grid_8 .col_1_4 {width:135px}
-.grid_8 .col_3_4 {width:425px}
-.grid_8 .col_1_5 {width:100px}
-.grid_8 .col_2_5 {width:220px}
-.grid_8 .col_3_5 {width:360px}
 
-.grid_8 .col_1_2.box_border {width:288px}
-.grid_8 .col_1_3.box_border {width:184px}
-.grid_8 .col_2_3.box_border {width:392px}
-.grid_8 .col_1_4.box_border {width:133px}
-.grid_8 .col_3_4.box_border {width:423px}
-.grid_8 .col_1_5.box_border {width:98px}
-.grid_8 .col_2_5.box_border {width:218px}
-.grid_8 .col_3_5.box_border {width:358px}
 
-.grid_8 .row .col_1_2 {width:300px}
-.grid_8 .row .col_1_3 {width:193px}
-.grid_8 .row .col_2_3 {width:406px}
-.grid_8 .row .col_1_4 {width:140px}
-.grid_8 .row .col_3_4 {width:460px}
-.grid_8 .row .col_1_5 {width:108px}
-.grid_8 .row .col_2_5 {width:236px}
-.grid_8 .row .col_3_5 {width:364px}
 
-.grid_8 .row .col_1_2.box_border {width:298px}
-.grid_8 .row .col_1_3.box_border {width:191px}
-.grid_8 .row .col_2_3.box_border {width:404px}
-.grid_8 .row .col_1_4.box_border {width:138px}
-.grid_8 .row .col_3_4.box_border {width:458px}
-.grid_8 .row .col_1_5.box_border {width:106px}
-.grid_8 .row .col_2_5.box_border {width:234px}
-.grid_8 .row .col_3_5.box_border {width:362px}
 
-.grid_2.box_border {width:118px}
-.grid_3.box_border, .col_1_4.box_border {width:218px}
-.grid_4.box_border, .col_1_3.box_border {width:298px}
-.grid_6.box_border, .col_1_2.box_border {width:458px}
-.grid_8.box_border, .col_2_3.box_border  {width:618px}
 
-.col_1_5.box_border  {width:170px}
-.col_2_5.box_border {width:362px}
-.col_3_5.box_border {width:554px}
+
+
+
+
+
+
 	
-.row .alpha, .col.alpha {
-	margin-left:0}
-.row .omega, .col.omega {
-	margin-right:0}
 
-.row .grid_3 {
-	width:176px;
-	margin-left: 18px;
-	margin-right: 18px}
+
+
 
 
 #gallery img {
 	width: 250px;
 	float: left;
 	padding: 21px;
+}
+img {
+	border-radius:6px;
 }
 
 /* Box styles */
